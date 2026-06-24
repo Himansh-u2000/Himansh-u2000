@@ -3,15 +3,6 @@
 ### Full Stack Developer | DevOps Enthusiast | Open Source Contributor | GDG On Campus Lead
 
 I'm a Computer Science student passionate about building scalable web applications, cloud infrastructure, developer tools, and AI-powered systems.
-
-Currently working on:
-
-* 🚀 Full Stack Applications using React, Next.js & Node.js
-* ☁️ Cloud & DevOps (AWS, Docker, Nginx, Linux VPS)
-* 🤖 AI Integrations & LLM Applications
-* ⚡ Workflow Automation using n8n
-* 📦 Open Source Developer Tools
-
 ---
 
 ## 🌐 Connect With Me
@@ -81,27 +72,6 @@ Open-source deployment CLI published on NPM.
 * PM2 Process Management
 * Nginx Reverse Proxy Setup
 * Zero Downtime Deployment
-
-### 🤖 Hybrid LLM Gateway
-
-OpenAI-compatible AI Gateway for routing requests between local and cloud LLMs.
-
-* Ollama Integration
-* Redis Rate Limiting
-* Dockerized Infrastructure
-* SSE Streaming Support
-* OpenAI Compatible APIs
-
----
-
-## 🏆 Achievements
-
-* 🥇 Winner - Codefest 2 Hackathon
-* 🥇 Winner - Innovation Fair
-* 🏅 Finalist - GIH National Hackathon 2024
-* 📄 Research Paper Author (SIESD 2025)
-* 🌟 GDG On Campus Lead
-* 🎯 Campus Technical Officer - Coding Ninjas 10X Club
 
 ---
 
