@@ -105,22 +105,6 @@ OpenAI-compatible AI Gateway for routing requests between local and cloud LLMs.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Himansh-u2000&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Himansh-u2000&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himansh-u2000&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Let's Build Something Amazing
 
 I'm actively interested in:
